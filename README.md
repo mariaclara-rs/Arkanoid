@@ -1,5 +1,6 @@
 # Arkanoid
-Jogo clássico Arkanoid em um versão com o tema futebol
+Jogo clássico Arkanoid em um versão com o tema futebol.
+
 Existem dois modos de jogo: normal e difícil.
 
 Componentes do jogo
