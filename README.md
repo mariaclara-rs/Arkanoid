@@ -23,7 +23,7 @@ Componentes do jogo
     
     • Cadeado fechado -> Cadeado aberto: são necessárias duas colisões para destruir este bloco. Quando isso acontece a raquere aumenta seu tamanho. Este bloco só esta presente no modo de jogo difícil.
     
-Cada bloco são 10 pontos para o jogafor;
+Cada bloco são 10 pontos para o jogador;
 
 O 'P' pausa o jogo.
 
