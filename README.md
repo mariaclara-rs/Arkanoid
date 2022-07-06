@@ -27,4 +27,7 @@ Cada bloco são 10 pontos para o jogador;
 
 O 'P' pausa o jogo.
 
+## Video Demonstração
+https://drive.google.com/file/d/1ZI1fkQpIKXtAJoHvoQxPiZJKfPSsy4_z/view?usp=sharing
+
   
